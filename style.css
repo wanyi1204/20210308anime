@@ -1,0 +1,49 @@
+.box{ 
+    width:900px;
+    
+    background-color:#FA9500;
+    margin: auto;
+    
+
+  }
+.box2{ 
+    width:900px;
+
+    background-color:#FA9500;
+    margin: auto;
+   
+
+}
+.media{ 
+    width: 900px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #311E10;
+
+}
+
+.mr-3{
+    width: 330px;
+    height: 300px;
+    float:right;
+}
+.btn{
+  width: 300x;;
+  height: 50px;
+  background-color:#ffdac6;
+  color:#000;
+  padding: 10px;
+}
+.card-text{
+  color:white;
+}
+h5{
+  color: white;
+}
+h1{
+  color: white;
+}
+p{
+    color: white;
+    
+}
